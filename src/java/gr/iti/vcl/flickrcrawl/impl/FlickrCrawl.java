@@ -1,11 +1,11 @@
-package gr.iti.dimsam.flickrcrawl.impl;
+package gr.iti.vcl.flickrcrawl.impl;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
-import gr.iti.dimsam.flickrcrawl.util.Convert;
-import gr.iti.dimsam.flickrcrawl.util.GetRequests;
-import gr.iti.dimsam.flickrcrawl.util.Logger;
-import gr.iti.dimsam.flickrcrawl.util.RabbitMQHandling;
+import gr.iti.vcl.flickrcrawl.util.Convert;
+import gr.iti.vcl.flickrcrawl.util.GetRequests;
+import gr.iti.vcl.flickrcrawl.util.Logger;
+import gr.iti.vcl.flickrcrawl.util.RabbitMQHandling;
 import java.io.IOException;
 import java.net.URL;
 import java.text.DateFormat;

@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package gr.iti.dimsam.flickrcrawl.util;
+package gr.iti.vcl.flickrcrawl.util;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;

@@ -1,7 +1,7 @@
 
-package gr.iti.dimsam.flickrcrawl.rest;
+package gr.iti.vcl.flickrcrawl.rest;
 
-import gr.iti.dimsam.flickrcrawl.impl.FlickrCrawl;
+import gr.iti.vcl.flickrcrawl.impl.FlickrCrawl;
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.UriInfo;
 import javax.ws.rs.Consumes;
