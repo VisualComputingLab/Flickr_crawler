@@ -1,5 +1,5 @@
 # Flickr_crawler
-a java web crawler for the Flickr social network
+Netbeans project of a java web crawler for the Flickr social network
 
 #About this project 
 
